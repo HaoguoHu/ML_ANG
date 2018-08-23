@@ -1,0 +1,4 @@
+set xrange[-3:3]
+set yrange[-0.5:3.5]
+plot "ps4.txt" using 1:2 with line
+q

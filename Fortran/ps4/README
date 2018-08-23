@@ -1,0 +1,2 @@
+f95 control.f90 show_cart.f90 get_state.f90 cart_pole.f90 -L/usr/local/pgplot -lpgplot -lX11
+
