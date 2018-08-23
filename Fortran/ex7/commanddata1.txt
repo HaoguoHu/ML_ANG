@@ -1,0 +1,6 @@
+ set size ratio -1 
+ set xr [-4:3]
+ set yr [-4:3] 
+plot "ex7data1_rec.txt" using 1:2 with points pt 6 ps 1, \
+     "ex7data1_line2.txt"  u 1:2 with linespoints dashtype 3  
+q

@@ -1,0 +1,4 @@
+ set size ratio -1 
+ set palette grey  
+ plot "ex7faces2.txt"  flipy rotation=90d  matrix with image
+q

@@ -1,0 +1,1 @@
+ f95 ex7.f90 findClosestCentroids.f90 computeCentroids.f90 runkMeans.f90 plotProgresskMeans.f90 plotDataPoint.f90 kMeansInitCentroids.f90

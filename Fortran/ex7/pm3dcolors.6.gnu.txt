@@ -1,0 +1,21 @@
+# set terminal pngcairo  transparent enhanced font "arial,10" fontscale 1.0 size 600, 400 
+# set output 'pm3dcolors.6.png'
+set format cb "%3.1f" 
+unset key
+set view map scale 1
+set samples 1024, 5000
+set isosamples 2, 2
+set style data pm3d
+set style function pm3d
+set xtics  norangelimit 2
+unset ytics
+unset ztics
+set cbtics  norangelimit 0.1
+set title "set palette defined ( 0 0 0 0, 1 1 1 1 )" 
+set xrange [  0 : 1024 ] noreverse nowriteback
+set yrange [  0 : 5000 ] noreverse nowriteback
+set cbrange [ 0 : 1 ] noreverse nowriteback
+set pm3d explicit at b
+set palette defined ( 0 0 0 0, 1 1 1 1 )
+
+plot "ex7faces2.txt" using 1:2:3 pallete  

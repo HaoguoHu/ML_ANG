@@ -1,0 +1,6 @@
+set title "Iteration numbers" 
+plot "plot01.dat" using 1:2 with points pointtype 6 pointsize 2 lt rgb "red",  \
+ 	 "plot02.dat" using 1:2 with points pointtype 6 pointsize 2 lt rgb "green",\
+  	 "plot03.dat" using 1:2 with points pointtype 6 pointsize 2 lt rgb "purple", \
+  	 "plot04.dat" using 1:2 with linespoints pointtype 1 pointsize 2 lt rgb "blue"
+q

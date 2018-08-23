@@ -1,0 +1,4 @@
+ set size ratio -1 
+ set palette grey  
+ plot "ex7faces36.txt" matrix with image   
+q

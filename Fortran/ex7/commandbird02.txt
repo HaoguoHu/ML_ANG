@@ -1,0 +1,3 @@
+rgb(r,g,b) = 65536 * int(r) + 256 * int(g) + int(b)
+plot "bird_small2.txt" using 1:2:(rgb($3,$4,$5)) with points pt 7 ps 1 lc rgb variable
+q

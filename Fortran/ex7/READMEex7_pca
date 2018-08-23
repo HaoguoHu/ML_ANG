@@ -1,0 +1,2 @@
+f95  -O3  ex7_pca.f90 featureNormalize.f90 statistics.f90 pca.f90 svd.f90 projectData.f90 recoverData.f90
+

@@ -1,0 +1,4 @@
+ set size ratio -1 
+ set palette grey  
+ plot "ex7facesRec.txt" matrix with image   
+q
