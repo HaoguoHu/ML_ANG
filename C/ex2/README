@@ -1,0 +1,6 @@
+ gcc ex2.c costFunction.c sigmoid.c -lm
+./a.out
+
+gcc ex2_Reg.c mapFeature.c costFunctionReg.c sigmoid.c newtonGradient.c predict.c fmincg.c -lm
+./a.out 
+
