@@ -1,0 +1,5 @@
+ gcc  ex1.c inverse.c matrix.c costFuction.c batchGradientDescent.c stochasiticGradientDescent.c
+./a.out
+
+gcc ex1_multi.c featureNormalize.c batchGradientDescentMulti.c  matrix.c inverse.c -lm 
+./a.out
