@@ -1,0 +1,5 @@
+f95 ex2.f90 costFunction.f90 sigmoid.f90
+./a.out
+
+f95 ex2_reg.f90 costFunctionReg.f90 sigmoid.f90 mapFeature.f90 
+./a.out
