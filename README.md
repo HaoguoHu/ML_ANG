@@ -6,6 +6,6 @@ Original code in Octave/Matlab
 
 Here is code in C and Fortran Language
 
-All PDFs of the course in : AndrewNg
+All course practices in : AndrewNg
 Fortran Code in: Fortran
 C code in: C
