@@ -5,4 +5,4 @@ f95 ex1_multi.f90 featureNormalize.f90 batchGradientDescentMulti.f90 matrix.f90
 ./a.out
 
 ## Codes are NOT for Fortran 77. 
-## Please use Fortran 90 or later.
+## Please use Fortran 90 or newer.
