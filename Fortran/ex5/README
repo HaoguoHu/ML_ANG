@@ -1,0 +1,1 @@
+f95 ex5.f90 linearRegCostFunction.f90 trainLinearReg.f90 learningCurve.f90 polyFeatures.f90  statistics.f90 fmincg.f90 featureNormalize.f90 validationCurve.f90

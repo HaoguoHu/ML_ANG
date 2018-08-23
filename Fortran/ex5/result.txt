@@ -1,0 +1,38 @@
+# Training Examples	Train Error	Cross Validation Error
+  	1		0.000000	160.721900
+  	2		0.000000	160.121510
+  	3		0.000000	61.754825
+  	4		0.000000	61.928895
+  	5		0.000000	6.597865
+  	6		0.000193	10.356123
+  	7		0.029641	10.099277
+  	8		0.069699	7.122468
+  	9		0.170458	7.268270
+  	10		0.180154	9.695477
+  	11		0.146361	9.470166
+  	12		0.151685	17.909699
+Program paused. Press enter to continue.
+Iteration   200 | Cost: 1.516847e-01
+Iteration   200 | Cost: 1.860714e-01
+Iteration   200 | Cost: 2.508399e-01
+Iteration   200 | Cost: 3.850776e-01
+Iteration   200 | Cost: 6.692749e-01
+Iteration   191 | Cost: 1.443470e+00
+Iteration    95 | Cost: 3.101591e+00
+warning: division by zero.613078e+01
+Iteration    60 | Cost: 7.268148e+00
+Iteration    39 | Cost: 1.586769e+01
+Iteration    24 | Cost: 3.337220e+01
+lambda		Train Error	Validation Error
+ 0.000000	0.151685	17.909699
+ 0.001000	0.151438	15.014102
+ 0.003000	0.179763	17.942733
+ 0.010000	0.221907	17.078441
+ 0.030000	0.281870	12.830904
+ 0.100000	0.459318	7.587013
+ 0.300000	0.921760	4.636833
+ 1.000000	2.076188	4.260625
+ 3.000000	4.901351	3.822907
+ 10.000000	16.092213	9.945509
+Program paused. Press enter to continue.
+
