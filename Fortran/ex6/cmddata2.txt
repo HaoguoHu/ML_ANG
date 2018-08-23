@@ -1,0 +1,7 @@
+symbol(z) = "o+"[int(z):int(z)]
+set dgrid3d 100,100 
+set contour base 
+set view map
+unset surface
+ splot "ex6data2con.txt" using 1:2:3 w l
+q

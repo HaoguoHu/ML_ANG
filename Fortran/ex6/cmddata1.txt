@@ -1,0 +1,4 @@
+symbol(z) = "o+"[int(z):int(z)]
+plot "ex6data1_2.txt" using 1:2:(symbol($3+1)) with labels textcolor lt 1, \
+   -(1.40 * x - 10.34)/2.13 
+q
