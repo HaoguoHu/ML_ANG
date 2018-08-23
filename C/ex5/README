@@ -1,0 +1,2 @@
+gcc ex5.c featureNormalize.c fmincg.c learningCurve.c linearRegCostFunction.c polyFeatures.c statistics.c trainLinearReg.c -lm
+
