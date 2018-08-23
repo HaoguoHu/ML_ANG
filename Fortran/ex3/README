@@ -1,0 +1,3 @@
+f95 mod_common.f90 lrCostFunction.f90 sigmoid.f90 oneVsAll.f90 predictOneVsAll.f90 fmincg.f90 ex3.f90 
+
+f95 mod_common.f90 ex3_nn.f90 predic.f90 sigmoid.f90 
