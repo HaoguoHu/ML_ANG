@@ -1,0 +1,2 @@
+plot "ex1data1_2.txt" 
+q
