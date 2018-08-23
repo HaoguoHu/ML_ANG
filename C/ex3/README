@@ -1,0 +1,4 @@
+gcc ex3.c oneVsAll.c sigmoid.c predictOneVsAll.c fmincg.c lrCostFunction.c -lm
+
+gcc ex3_nn.c predict.c sigmoid.c -lm
+
