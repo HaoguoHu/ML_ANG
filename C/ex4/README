@@ -1,0 +1,2 @@
+ gcc checkNNGradients.c computeNumericalGradient.c debugInitializeWeights.c ex4.c nnCostFunction.c randInitializeWeights.c sigmoid.c sigmoidGradient.c predict.c unroll.c  fmincg.c  -lm
+
