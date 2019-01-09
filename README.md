@@ -4,11 +4,11 @@ Machine learning course by Andrew Ng
 
 Original code in Octave/Matlab, please search Github for the code and course.
 
-Here is code in C and Fortran Language
+Here is code in C and Fortran language
 
 All course practices (PDF files) in : AndrewNG
 
-Fortran Code in: Fortran
+Fortran code in: Fortran
 
 C code in: C
 
